@@ -13,6 +13,9 @@ img {
 h3 {
     font-size: 200%;
 }
+hr{
+    width: 50px;
+}
 a {
     color: rgb(171, 178, 190);
 }
